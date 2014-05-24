@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archivoTrabajadores>
+<totalAltasTrabajador>8</totalAltasTrabajador>
+<totalTrabajadoresEmpresa>6</totalTrabajadoresEmpresa>
+<totalEventualesEmpresa>4</totalEventualesEmpresa>
+<totalFijosEmpresa>2</totalFijosEmpresa>
+<cuotaObrera>10.0</cuotaObrera>
+<precioHora>5.0</precioHora>
+<sueldoFijoMinimo>651.0</sueldoFijoMinimo>
+<precioHoraExtra>6.0</precioHoraExtra>
+<trabajador>
+<nifONie>24047250Z</nifONie>
+<nombre>Asunción Martínez Curado</nombre>
+<fechaNacimiento>01-05-1980</fechaNacimiento>
+<altura>1.58</altura>
+<ocupacion>Programador Senior</ocupacion>
+<telefono>999999999</telefono>
+<numHijos>4</numHijos>
+<bancoCcc>99377149177945964378</bancoCcc>
+<bancoNifONie>24047250Z</bancoNifONie>
+<bancoNombre>Asunción Martínez Curado</bancoNombre>
+<fechaContrato>01-12-2008</fechaContrato>
+<codigo>7</codigo>
+<email>rociodemula@gmail.com</email>
+<numHoras>150</numHoras>
+<numColaboracion>150</numColaboracion>
+</trabajador>
+<trabajador>
+<nifONie>28270268W</nifONie>
+<nombre>José Mª Benavides Izquierdo</nombre>
+<fechaNacimiento>01-04-1958</fechaNacimiento>
+<altura>1.85</altura>
+<ocupacion>Coordinador</ocupacion>
+<telefono>999999999</telefono>
+<numHijos>2</numHijos>
+<bancoCcc>77422629963983892982</bancoCcc>
+<bancoNifONie>28270268W</bancoNifONie>
+<bancoNombre>José Mª Benavides Izquierdo</bancoNombre>
+<fechaContrato>01-12-2013</fechaContrato>
+<codigo>5</codigo>
+<email>rociodemula@gmail.com</email>
+<numHoras>118</numHoras>
+<numColaboracion>15</numColaboracion>
+</trabajador>
+<trabajador>
+<nifONie>54117857F</nifONie>
+<nombre>Juana Castejón Arturín</nombre>
+<fechaNacimiento>01-01-1984</fechaNacimiento>
+<altura>1.62</altura>
+<ocupacion>Consultora</ocupacion>
+<telefono>999999999</telefono>
+<numHijos>1</numHijos>
+<bancoCcc>22784919243434221697</bancoCcc>
+<bancoNifONie>54117857F</bancoNifONie>
+<bancoNombre>Juana Castejón Arturín</bancoNombre>
+<fechaContrato>01-01-2005</fechaContrato>
+<codigo>3</codigo>
+<email>rociodemula@gmail.com</email>
+<numHoras>120</numHoras>
+<numColaboracion>10</numColaboracion>
+</trabajador>
+<trabajador>
+<nifONie>40851488S</nifONie>
+<nombre>Juan Fabián Torres</nombre>
+<fechaNacimiento>01-01-1950</fechaNacimiento>
+<altura>1.62</altura>
+<ocupacion>Analista</ocupacion>
+<telefono>999999999</telefono>
+<numHijos>5</numHijos>
+<bancoCcc>22784919243434221697</bancoCcc>
+<bancoNifONie>40851488S</bancoNifONie>
+<bancoNombre>Juan Fabián Torres</bancoNombre>
+<fechaContrato>01-01-2000</fechaContrato>
+<codigo>2</codigo>
+<email>rociodemula@gmail.com</email>
+<numHorasExtra>40</numHorasExtra>
+<sueldoFijo>1000.0</sueldoFijo>
+</trabajador>
+<trabajador>
+<nifONie>X3175453G</nifONie>
+<nombre>Yosur Abat</nombre>
+<fechaNacimiento>01-01-1952</fechaNacimiento>
+<altura>1.72</altura>
+<ocupacion>Jefe de Proyecto</ocupacion>
+<telefono>999999999</telefono>
+<numHijos>9</numHijos>
+<bancoCcc>22784919243434221697</bancoCcc>
+<bancoNifONie>X3175453G</bancoNifONie>
+<bancoNombre>Yosur Abat</bancoNombre>
+<fechaContrato>01-01-2012</fechaContrato>
+<codigo>4</codigo>
+<email>rociodemula@gmail.com</email>
+<numHorasExtra>20</numHorasExtra>
+<sueldoFijo>1100.0</sueldoFijo>
+</trabajador>
+<trabajador>
+<nifONie>Y1038129S</nifONie>
+<nombre>Faustina Testa</nombre>
+<fechaNacimiento>01-04-1987</fechaNacimiento>
+<altura>1.52</altura>
+<ocupacion>Programador senior</ocupacion>
+<telefono>888888888</telefono>
+<numHijos>3</numHijos>
+<bancoCcc>59313397893012405456</bancoCcc>
+<bancoNifONie>Y1038129S</bancoNifONie>
+<bancoNombre>Faustina Testa</bancoNombre>
+<fechaContrato>01-05-2008</fechaContrato>
+<codigo>8</codigo>
+<email>rociodemula@gmail.com</email>
+<numHorasExtra>50</numHorasExtra>
+<sueldoFijo>1100.0</sueldoFijo>
+</trabajador>
+</archivoTrabajadores>
